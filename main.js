@@ -76,3 +76,4 @@ function createConfetti() {
         }, 4500);
     }
 }
+
